@@ -1,7 +1,7 @@
 ## Bonjour I'm Eric 👋
 
-- 🔭 I’m currently working on React projects
-- 🌱 I’m currently learning React, Firebase, JavaScript, and Python3.
+- 🔭 I’m currently working on Shopify projects
+- 🌱 I’m currently learning Liquid, React, Firebase, JavaScript, and Python3.
 - 📫 How to reach me: https://www.linkedin.com/in/eric-lepki
 
 ### My Portfolio Site: https://quizzical-euler-ee341e.netlify.app

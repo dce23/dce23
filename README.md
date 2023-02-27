@@ -1,7 +1,7 @@
 ## Bonjour I'm Eric 👋
 
-- 🔭 I’m currently working on Shopify projects
-- 🌱 I’m currently learning Liquid, React, Firebase, JavaScript, and Python3.
+- 🔭 I’m currently working on Data Analysis projects
+- 🌱 I’m currently learning SQL, Pandas, Tableau, JavaScript, and Python.
 - 📫 How to reach me: https://www.linkedin.com/in/eric-lepki
 
 ### My Portfolio Site: https://devlepki.netlify.app

@@ -22,7 +22,13 @@
 
 - 🔭 I’m currently working on Data Analysis projects
 - 🌱 I’m currently learning SQL, Pandas, Tableau, JavaScript, and Python.
-- 📫 How to reach me: https://www.linkedin.com/in/eric-lepki
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-lepki/)
+
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ### My Portfolio Site: https://devlepki.netlify.app
 
@@ -34,8 +40,5 @@
 
 ![dce23's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dce23&&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=009933)
 
-### Play around with some of my projects in action at https://codepen.io/dce23
-
-### Where to find me
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-lepki/)
+### Play around with some of my projects in action at ![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white) 
+https://codepen.io/dce23

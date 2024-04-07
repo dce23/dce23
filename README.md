@@ -21,7 +21,7 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 
 - 🔭 I’m currently working on Data Analysis projects
-- 🌱 I’m currently learning SQL, Pandas, Tableau, JavaScript, and Python.
+- 🌱 I’m currently learning SQL, Pandas, Tableau, Streamlit, and SnowFlake.
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-lepki/)
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)

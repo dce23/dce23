@@ -1,4 +1,4 @@
-## Bonjour I'm Eric 👋
+## Bonjour, I'm Eric, a Data Analyst 👋
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -20,8 +20,8 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 
-- 🔭 I’m currently working on Data Engineering projects
-- 🌱 I’m currently learning DBT, Airflow, and Spark.
+- 🔭 I’m currently working on Data Engineering & Analytics projects
+- 🌱 I’m currently learning DBT, Airflow, and Mage.
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-lepki/)
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
